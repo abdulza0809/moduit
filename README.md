@@ -1,2 +1,2 @@
 API Testing Info : 
-Assertion value and pasrse body response to environment
+Assertion value and parse body response to environmen
